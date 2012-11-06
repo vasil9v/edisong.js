@@ -13,6 +13,10 @@
     "type": "git",
     "url": "git://github.com/vasil9v/edisong.js.git"
   },
+  "devDependencies": {
+    "mocha": "",
+    "should": ""
+  },
   "keywords": [
     "JavaScript",
     "JSON",
