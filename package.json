@@ -1,0 +1,24 @@
+{
+  "name": "edisong.js",
+  "version": "0.0.0",
+  "description": "Edisong is an electronic music library.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vasil9v/edisong.js.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "JSON",
+    "music",
+    "tracker"
+  ],
+  "author": "Vasil Daskalopoulos (vasil9v)",
+  "license": "BSD"
+}
